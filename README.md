@@ -4,7 +4,7 @@
 <br>
 
 ### bio
-pronouns: any \
+pronouns: she/her \
 languages: `.js`, `.py`,`.html`,`.css` \
 interests: design, developement, ml \
 add me on [discord](eggy#4719)
