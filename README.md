@@ -4,7 +4,7 @@
   
   ###
   
-  <h1 align="left">Hey 👋 What's up?</h1>
+  <h1 align="left">Hey 👋</h1>
   
   ###
   
@@ -20,7 +20,7 @@
   
   ###
   
-  <h2 align="left">I code with</h2>
+  <h2 align="left">I know</h2>
   
   ###
   
@@ -84,26 +84,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-  </div>
-  
-  ###
-  
-  <div style="display: flex;">
-    <div align="left" style="width: 50%;">
-      <a href="https://open.spotify.com/user/h060zo0f2rfjseugq1tan4q3y">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=h060zo0f2rfjseugq1tan4q3y&count=5&unique=true" alt="Spotify recently played"  />
-      </a>
-    </div>
-    <div style="flex-grow: 1;" >
-      <img align="right" src="https://raw.githubusercontent.com/mahwish-dev/mahwish-dev/output/snake.svg" alt="Snake animation" />
-      </div></div>
-  
-  ###
-  
-  <div align="left">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </div>
   
   ###
